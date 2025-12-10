@@ -97,9 +97,8 @@ A continuación se describen las principales transformaciones realizadas en SQL.
 
 📌 5. KPIs nacionales por año
 
-Mes menos visitado:
 
-📊 Dashboard en Power BI
+## 📊 Dashboard en Power BI
 
 El dashboard incluye:
 
