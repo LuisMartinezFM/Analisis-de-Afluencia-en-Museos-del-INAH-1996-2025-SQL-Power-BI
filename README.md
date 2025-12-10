@@ -69,6 +69,9 @@ Esto no es un error del análisis, sino una ausencia real en los datos oficiales
 
 🥇 Ranking top 3 de estados con mayor afluencia
 
+
+--
+
 📊 Dashboard en Power BI
 
 El dashboard incluye:
