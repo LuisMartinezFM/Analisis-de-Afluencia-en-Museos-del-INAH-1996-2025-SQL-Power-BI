@@ -40,10 +40,15 @@ PowerPoint	            Diseño de la plantilla visual utilizada como fondo para 
 El dataset contiene información del número de visitantes nacionales y extranjeros por museo, clasificados por:
 
 -Estado
+
 -Año
+
 -Mes
+
 -Tipo de visitante (nacional / extranjero)
+
 -Clave SIINAH del museo
+
 -Nombre del recinto
 
 🔎 Nota importante sobre los datos:
@@ -67,10 +72,15 @@ Esto no es un error del análisis, sino una ausencia real en los datos oficiales
 📊 Dashboard en Power BI
 
 El dashboard incluye:
+
 -Segmentador por año
+
 -Gráfica de los 5 estados con menor afluencia
+
 -Gráfica de los 3 estados con mayor afluencia
+
 -KPIs del estado menos visitado
+
 -KPIs nacionales (mes más visitado y mes menos visitado)
 
 Diseño estandarizado usando una plantilla visual elaborada en PowerPoint
