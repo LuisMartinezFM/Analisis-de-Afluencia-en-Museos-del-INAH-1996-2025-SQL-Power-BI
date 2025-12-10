@@ -34,7 +34,7 @@ PostgreSQL	            Limpieza, preparación de datos, creación de tablas, cá
 Power BI	              Dashboard final interactivo.
 PowerPoint	            Diseño de la plantilla visual utilizada como fondo para Power BI.
 
-##🗂️ Dataset y particularidades
+## 🗂️ Dataset y particularidades
 [Ver Dataset](./Visitantes_museos_publicos_INAH.csv)
 
 El dataset contiene información del número de visitantes nacionales y extranjeros por museo, clasificados por:
