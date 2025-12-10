@@ -51,12 +51,19 @@ Durango es el único estado del país que aparece sin registros en el dataset.
 Esto no es un error del análisis, sino una ausencia real en los datos oficiales.
 
 📌 KPIs principales obtenidos
+
 🔻 Estado con menos visitas por año
+
 🔺 Estado con más visitas por año
+
 🔻 Mes menos visitado del país por año
+
 🔺 Mes más visitado del país por año
+
 📈 Total de visitas nacionales y extranjeras por estado
+
 🥇 Ranking top 3 de estados con mayor afluencia
+
 📊 Dashboard en Power BI
 
 El dashboard incluye:
