@@ -1,6 +1,19 @@
 # Analisis-de-Afluencia-en-Museos-del-INAH-1996-2025-SQL-Power-BI
-📁 Descripción del Proyecto
+Ejemplos de las posibles pantallas por año (1996-2025)
+### 1996
+![1996](./1996.png)
 
+### 2005
+![2005](./2005.png)
+
+### 2013
+![2013](./2013.png)
+
+
+### 20205
+![2025](./2025.png)
+
+📁 Descripción del Proyecto
 Este proyecto analiza la afluencia histórica de visitantes a los museos administrados por el INAH (Instituto Nacional de Antropología e Historia) en México.
 Los datos empleados son reales, extraídos del portal oficial de datos abiertos del Gobierno de México:
 
