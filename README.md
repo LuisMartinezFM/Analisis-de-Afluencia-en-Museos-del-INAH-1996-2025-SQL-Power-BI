@@ -69,8 +69,35 @@ Esto no es un error del análisis, sino una ausencia real en los datos oficiales
 
 🥇 Ranking top 3 de estados con mayor afluencia
 
+🛠️ Procesamiento y Modelado de Datos en PostgreSQL
 
---
+Todo el tratamiento, limpieza, unificación y preparación de los datos fue realizado en PostgreSQL, antes de llevarlos a Power BI.
+Este enfoque asegura:
+
+consultas más rápidas
+
+reducción de carga en Power BI
+
+mejor control sobre cálculos analíticos
+
+reproducibilidad del proceso
+
+A continuación se describen las principales transformaciones realizadas en SQL.
+
+## 👉 SQL
+[Ver archivo SQL](.Visitas_MUSEOS_INAH.sql)
+
+📌 1. Creación de la tabla RAW
+
+📌 2. Consolidación anual por estado
+
+📌 3. Ranking de estados por afluencia (menores y mayores)
+
+📌 4. Conversión de meses a formato vertical (“unpivot”)
+
+📌 5. KPIs nacionales por año
+
+Mes menos visitado:
 
 📊 Dashboard en Power BI
 
