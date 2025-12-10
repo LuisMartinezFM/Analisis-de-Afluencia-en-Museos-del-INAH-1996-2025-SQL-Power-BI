@@ -35,7 +35,8 @@ Power BI	              Dashboard final interactivo.
 PowerPoint	            Diseño de la plantilla visual utilizada como fondo para Power BI.
 
 🗂️ Dataset y particularidades
-[Ver Dataset](./Visitantes_a museos_publicos_INAH.csv)
+[Ver Dataset](./Visitantes_museos_publicos_INAH.csv)
+
 El dataset contiene información del número de visitantes nacionales y extranjeros por museo, clasificados por:
 
 -Estado
