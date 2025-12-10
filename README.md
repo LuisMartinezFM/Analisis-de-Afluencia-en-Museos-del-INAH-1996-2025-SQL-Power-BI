@@ -22,7 +22,6 @@ Power BI	              Dashboard final interactivo.
 PowerPoint	            Diseño de la plantilla visual utilizada como fondo para Power BI.
 
 🗂️ Dataset y particularidades
-
 El dataset contiene información del número de visitantes nacionales y extranjeros por museo, clasificados por:
 
 -Estado
@@ -33,6 +32,31 @@ El dataset contiene información del número de visitantes nacionales y extranje
 -Nombre del recinto
 
 🔎 Nota importante sobre los datos:
-
 Durango es el único estado del país que aparece sin registros en el dataset.
 Esto no es un error del análisis, sino una ausencia real en los datos oficiales.
+
+📌 KPIs principales obtenidos
+🔻 Estado con menos visitas por año
+🔺 Estado con más visitas por año
+🔻 Mes menos visitado del país por año
+🔺 Mes más visitado del país por año
+📈 Total de visitas nacionales y extranjeras por estado
+🥇 Ranking top 3 de estados con mayor afluencia
+📊 Dashboard en Power BI
+
+El dashboard incluye:
+-Segmentador por año
+-Gráfica de los 5 estados con menor afluencia
+-Gráfica de los 3 estados con mayor afluencia
+-KPIs del estado menos visitado
+-KPIs nacionales (mes más visitado y mes menos visitado)
+
+Diseño estandarizado usando una plantilla visual elaborada en PowerPoint
+
+📌 Conclusiones del análisis
+
+La afluencia varía fuertemente entre estados:
+Ciudad de México domina en visitas, mientras que estados como Sonora, Tabasco o Tamaulipas suelen aparecer entre los menos visitados.
+Durango no presenta registros en todo el dataset (1996–2025).
+
+A nivel nacional, ciertos meses tienen picos históricos como marzo (vacaciones) y caídas importantes como junio.
